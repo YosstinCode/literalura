@@ -1,3 +1,3 @@
 # Literalura
 
-Challenge ONE literalura usando spring boot, JPA, jackson y otras liberias, buscador de libros.
+Reto del programa ONE buscador de libros el cual fue construido con spring boot
